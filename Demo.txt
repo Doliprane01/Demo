@@ -1,2 +1,2 @@
 Hello Word ! 
-On voit ce texte uniquement sur nouvelleBranche 
+On voit ce texte uniquement sur Exobranche
